@@ -1,10 +1,10 @@
 <?php
 
 /*
- * DeskPRO (r) has been developed by DeskPRO Ltd. https://www.deskpro.com/
+ * DeskPRO (r) has been developed by Deskpro Ltd. https://www.deskpro.com/
  * a British company located in London, England.
  *
- * All source code and content Copyright (c) 2017, DeskPRO Ltd.
+ * All source code and content Copyright (c) 2025, Deskpro Ltd.
  *
  * The license agreement under which this software is released
  * can be found at https://www.deskpro.com/eula/
@@ -143,9 +143,9 @@ class DeskproClientTest extends TestCase
                     'num_comments' => 1,
                     'num_ratings' => 14,
                     'status' => 'published',
-                    'date_created' => '2017-11-16T13:40:04+0000',
-                    'date_updated' => '2017-11-27T12:43:34+0000',
-                    'date_published' => '2017-11-27T12:43:34+0000'
+                    'date_created' => '2025-11-16T13:40:04+0000',
+                    'date_updated' => '2025-11-27T12:43:34+0000',
+                    'date_published' => '2025-11-27T12:43:34+0000'
                 ]
             ],
             'meta' => [
@@ -184,9 +184,9 @@ class DeskproClientTest extends TestCase
                     'num_comments' => 1,
                     'num_ratings' => 14,
                     'status' => 'published',
-                    'date_created' => '2017-11-16T13:40:04+0000',
-                    'date_updated' => '2017-11-27T12:43:34+0000',
-                    'date_published' => '2017-11-27T12:43:34+0000'
+                    'date_created' => '2025-11-16T13:40:04+0000',
+                    'date_updated' => '2025-11-27T12:43:34+0000',
+                    'date_published' => '2025-11-27T12:43:34+0000'
                 ]
             ],
             'meta' => [
