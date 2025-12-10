@@ -21,9 +21,9 @@
  * another decade.
  *
  * Like the work you see? Think you could make it better? We are always
- * looking for great developers to join us: http://www.deskpro.com/jobs/
+ * looking for great developers to join us: https://www.deskprocom/jobs/
  *
- * ~ Thanks, Everyone at Team DeskPRO
+ * ~ Thanks, Everyone at Team Deskpro
  */
 
 namespace Deskpro\API\Exception;
